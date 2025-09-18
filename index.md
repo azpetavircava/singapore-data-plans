@@ -60,3 +60,10 @@ layout: default
 4.  **宗教场所信号**：小印度寺庙内手机需静音+关闭流量（别问我怎么知道的）
 
 　　**最后暴击灵魂的问题**：你愿意为省10块钱，在烈日下找半小时便利店吗？我选多花点钱机场搞定——毕竟旅行时间最贵啊！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Singapore SIM 卡购买与激活指南](https://faciylike.github.io/singapore-sim-guides)
